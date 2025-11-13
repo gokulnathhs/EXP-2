@@ -3,17 +3,17 @@
 To create a decentralized crowdfunding platform where donors contribute funds only if the campaign goal is met.
 
 ## Algorithm:
+### Step 1:
 A project owner starts a campaign with a funding goal and deadline.
 
-
+### Step 2:
 Contributors can send ETH to the campaign.
 
-
+### Step 3:
 If the goal is met before the deadline, funds are released to the project owner.
 
-
+### Step 4:
 If the goal is not met, contributors can withdraw their funds.
-
 
 ## Program:
 ```
@@ -60,20 +60,23 @@ contract Crowdfunding {
     }
 }
 ```
-# Expected Output:
+## Expected Output:
 Users can contribute ETH to the campaign.
-
 
 If the goal is met, the creator can withdraw funds.
 
-
 If the goal is not met, contributors can claim a refund.
 
-
-# High-Level Overview:
+## High-Level Overview:
 Teaches decentralized fundraising.
-
 
 Avoids fraud by ensuring funds are only transferred if the goal is met.
 
-# RESULT: 
+## Output:
+
+<img width="1919" height="927" alt="exp kickstart" src="https://github.com/user-attachments/assets/7f495ca0-7c11-4b87-8509-33e6566f8c7f" />
+
+
+
+## Result:
+Thus,To create a decentralized crowdfunding platform is successfully verified.
